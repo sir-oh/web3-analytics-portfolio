@@ -61,11 +61,12 @@ Dune SQL, ERC-20 transfer analysis, cohort segmentation, retention curves.
 **Methods:**  
 Python, Streamlit, DeFiLlama API, rolling volatility, net flow modeling.
 
-🔗 Live Dashboards: [
-    link_1(AAVE): https://ethereum-defi-capital-flow-and-protocol-health-aahvq2hgqyrzcfw.streamlit.app/
-    link_2(Curve): https://ethereum-defi-capital-flow-and-protocol-health-hqvxcqkdqdsq5mh.streamlit.app/
-    link_3(Uniswap): https://ethereum-defi-capital-flow-and-protocol-health-wpbdvapvr8sunpl.streamlit.app/
-    ]
+🔗 Live Dashboards: [link_1(AAVE): https://ethereum-defi-capital-flow-and-protocol-health-aahvq2hgqyrzcfw.streamlit.app/
+
+link_2(Curve): https://ethereum-defi-capital-flow-and-protocol-health-hqvxcqkdqdsq5mh.streamlit.app/
+
+link_3(Uniswap): https://ethereum-defi-capital-flow-and-protocol-health-wpbdvapvr8sunpl.streamlit.app/
+]
 
 ---
 
